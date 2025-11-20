@@ -1,0 +1,15 @@
+﻿{
+  "files": [],
+  "references": [
+    { "path": "./back-end" },
+    { "path": "./front-end" }
+  ],
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
